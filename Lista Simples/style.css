@@ -1,0 +1,13 @@
+.titulo {
+    font-style: oblique;
+    font-size: 1000;
+}
+
+.body {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/5629587-abstrato-estilo-comida-padrao-sem-costura-com-roxo-simples-fig-ornamento-rosa-listrado-fundo-estacao-impressao-vetor.jpg);
+}
+
+* {
+    font: optional; color: rgb(0, 255, 255);
+}
+
